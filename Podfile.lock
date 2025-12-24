@@ -1,0 +1,36 @@
+PODS:
+  - Alamofire (5.10.2)
+  - GCDWebServer (3.5.4):
+    - GCDWebServer/Core (= 3.5.4)
+  - GCDWebServer/Core (3.5.4)
+  - SQLite.swift (0.14.1):
+    - SQLite.swift/standard (= 0.14.1)
+  - SQLite.swift/standard (0.14.1)
+  - SwiftyJSON (5.0.2)
+  - VLCKit (3.3.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - GCDWebServer (~> 3.5.4)
+  - SQLite.swift (~> 0.14.1)
+  - SwiftyJSON
+  - VLCKit (= 3.3.0)
+
+SPEC REPOS:
+  https://cdn.cocoapods.org/:
+    - Alamofire
+    - GCDWebServer
+    - SQLite.swift
+    - SwiftyJSON
+    - VLCKit
+
+SPEC CHECKSUMS:
+  Alamofire: 7193b3b92c74a07f85569e1a6c4f4237291e7496
+  GCDWebServer: 2c156a56c8226e2d5c0c3f208a3621ccffbe3ce4
+  SQLite.swift: 2992550ebf3c5b268bf4352603e3df87d2a4ed72
+  SwiftyJSON: f5b1bf1cd8dd53cd25887ac0eabcfd92301c6a5a
+  VLCKit: deec7578457906c0e88cd1ec066e515d03c73ca3
+
+PODFILE CHECKSUM: 9f8205d1966ce26e5086db863a2b4ec4f207290c
+
+COCOAPODS: 1.16.2
